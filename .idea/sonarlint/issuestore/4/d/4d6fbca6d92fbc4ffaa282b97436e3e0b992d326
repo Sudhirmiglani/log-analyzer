@@ -1,0 +1,24 @@
+
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ä‚ñÂÿÿÿÿÿ
+D
+java:S1172!")Remove this unused method parameter "t2".(÷Öşúÿÿÿÿÿ
+Q
+java:S1854'";Remove this useless assignment to local variable "seconds".(ÉËÌ‘
+V
+java:S1854&";Remove this useless assignment to local variable "minutes".(«àò»ÿÿÿÿÿ
+S
+java:S1854%"8Remove this useless assignment to local variable "hour".(ĞÄË“üÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(ÑÆƒŠüÿÿÿÿ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(¥Ÿ¾¹
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(õ¸ù¥
+D
+java:S1481%")Remove this unused "hour" local variable.(ĞÄË“üÿÿÿÿ
+G
+java:S1481&",Remove this unused "minutes" local variable.(«àò»ÿÿÿÿÿ
+B
+java:S1481'",Remove this unused "seconds" local variable.(ÉËÌ‘
+I
+java:S1144".Remove this unused private "construct" method.(„âÖøÿÿÿÿ
+E
+java:S1144!"*Remove this unused private "query" method.(÷Öşúÿÿÿÿÿ
